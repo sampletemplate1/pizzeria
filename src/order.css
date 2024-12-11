@@ -1,0 +1,40 @@
+.pizzaimages{
+    width:40px;
+    height:15px;
+    margin-left: 18px;
+    margin-top: 7px;
+}
+.card{
+    width:550px;
+    height:250px;
+    margin-top:15px;
+    border-radius:0px;
+    margin-left: 10px;
+    
+}
+.card:hover{
+    box-shadow: 0 5px 7px black;
+}
+.img{
+    width:150px;
+    height:150px;
+    margin-top:10px;
+}
+#button{
+    padding:5px;
+    width:100px;
+    margin-left:23px;
+}
+.paragraph{
+    font-size: 13px;
+}
+.name{
+    text-align: center;
+}
+.price{
+    text-align: center;
+    margin-top:50px;
+}
+.class-4{
+    margin-left: 25px;
+}
